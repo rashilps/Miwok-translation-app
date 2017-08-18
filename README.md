@@ -53,14 +53,5 @@ We used Navigation Patterns for adding the swiping effect to all the fragments w
 
 These are the screenshots of how the final app looks like:
 
-<img src="https://github.com/rashilps/Miwok-translation-app/blob/master/Screenshot_20170819-000650.png" width="300" height="500">
-
-
-<img src="https://github.com/rashilps/Miwok-translation-app/blob/master/Screenshot_20170819-000654.png" width="300" height="500">
-
-
-<img src="https://github.com/rashilps/Miwok-translation-app/blob/master/Screenshot_20170819-000659.png" width="300" height="500">
-
-
-<img src="https://github.com/rashilps/Miwok-translation-app/blob/master/Screenshot_20170819-000704.png" width="300" height="500">
+<img src="https://github.com/rashilps/Miwok-translation-app/blob/master/Screenshot_20170819-000650.png" width="300" height="500">   <img src="https://github.com/rashilps/Miwok-translation-app/blob/master/Screenshot_20170819-000654.png" width="300" height="500">   <img src="https://github.com/rashilps/Miwok-translation-app/blob/master/Screenshot_20170819-000659.png" width="300" height="500">   <img src="https://github.com/rashilps/Miwok-translation-app/blob/master/Screenshot_20170819-000704.png" width="300" height="500">
 
