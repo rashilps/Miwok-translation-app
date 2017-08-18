@@ -45,22 +45,22 @@ With this we were able to add dictation feature in our app.
 
 Further, we converted our app from activities into fragments for smoother experience.
 
-The app looked like this when the fragment effect was added:
+The app looked like this when the fragment was added:
 
-<img src="https://github.com/rashilps/Miwok-translation-app/blob/master/Screenshot%20(18-Aug-2017%2011-37-49%20PM).png" width="300" height="500">
+<img src="https://github.com/rashilps/Miwok-translation-app/blob/master/Screenshot_20170819-000650.png" width="300" height="500">
 
 We used Navigation Patterns for adding the swiping effect to all the fragments which helps the user to easily navigate through different fragments.
 
 These are the screenshots of how the final app looks like:
 
-<img src="https://github.com/rashilps/Miwok-translation-app/blob/master/Screenshot%20(18-Aug-2017%2011-37-49%20PM).png" width="300" height="500">
+<img src="https://github.com/rashilps/Miwok-translation-app/blob/master/Screenshot_20170819-000650.png" width="300" height="500">
 
 
-<img src="https://github.com/rashilps/Miwok-translation-app/blob/master/Screenshot%20(18-Aug-2017%2011-37-49%20PM).png" width="300" height="500">
+<img src="https://github.com/rashilps/Miwok-translation-app/blob/master/Screenshot_20170819-000654.png" width="300" height="500">
 
 
-<img src="https://github.com/rashilps/Miwok-translation-app/blob/master/Screenshot%20(18-Aug-2017%2011-37-49%20PM).png" width="300" height="500">
+<img src="https://github.com/rashilps/Miwok-translation-app/blob/master/Screenshot_20170819-000659.png" width="300" height="500">
 
 
-<img src="https://github.com/rashilps/Miwok-translation-app/blob/master/Screenshot%20(18-Aug-2017%2011-37-49%20PM).png" width="300" height="500">
+<img src="https://github.com/rashilps/Miwok-translation-app/blob/master/Screenshot_20170819-000704.png" width="300" height="500">
 
