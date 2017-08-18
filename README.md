@@ -5,7 +5,7 @@ Miwok app started with a basic explanation on android studio project structure.
 
 Following is the screenshot of how the MainActivity looks like:
 
-![Miwok1](https://github.com/rashilps/Miwok-translation-app/blob/master/Screenshot_20170818-233219.png =250x250)
+![Miwok1](https://github.com/rashilps/Miwok-translation-app/blob/master/Screenshot_20170818-233219.png | width=58) 
 
 We start with creating 4 new activities apart from MainActivity which are NumbersActivity, ColorsActivity, FamilyActivity and PhrasesActivity, all 4 activities are discribed in the following section:
 
