@@ -5,7 +5,8 @@ Miwok app started with a basic explanation on android studio project structure.
 
 Following is the screenshot of how the MainActivity looks like:
 
-![Miwok1](https://github.com/rashilps/Miwok-translation-app/blob/master/Screenshot_20170818-233219.png | width=58) 
+
+<img src="https://github.com/rashilps/Miwok-translation-app/blob/master/Screenshot_20170818-233219.png" width="300" height="500">
 
 We start with creating 4 new activities apart from MainActivity which are NumbersActivity, ColorsActivity, FamilyActivity and PhrasesActivity, all 4 activities are discribed in the following section:
 
@@ -32,6 +33,6 @@ Further, the app also uses concept of adding multiple images into app. For examp
 
 Please refer the following Family Activity screenshot to understand how images look in Miwok app:
 
-![Miwok1](https://github.com/rashilps/Miwok-translation-app/blob/master/Screenshot%20(18-Aug-2017%2011-37-49%20PM).png)
+<img src="https://github.com/rashilps/Miwok-translation-app/blob/master/Screenshot%20(18-Aug-2017%2011-37-49%20PM).png" width="300" height="500">
 
 
