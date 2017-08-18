@@ -28,4 +28,4 @@ Further, the app also uses concept of adding multiple images into app. For examp
 
 Following is the screenshot of how the app looks at this stage:
 
-![CoffeeMaker](https://github.com/rashilps/CoffeeMaker/blob/master/Screenshot%20(30-Jul-2017%206-57-58%20PM).png)
+![Miwok1](https://github.com/rashilps/Miwok-translation-app/blob/master/Screenshot_20170818-233219.png)
