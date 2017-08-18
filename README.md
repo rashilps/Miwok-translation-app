@@ -1,57 +1,47 @@
-# Miwok-translation-app
-This is a Miwok translation app which was thought on Udacity in Multiscreen app course
+Miwok App
+===================================
 
-The Miwok app started with a basic explanation on android studio project structure.
+This app displays lists of vocabulary words for the user to learn the Miwok language.
+Used in a Udacity course in the Beginning Android Nanodegree.
 
-Following is the screenshot of how the MainActivity looks like:
+Pre-requisites
+--------------
 
+- Android SDK v23
+- Android Build Tools v23.0.2
+- Android Support Repository v23.3.0
 
-<img src="https://github.com/rashilps/Miwok-translation-app/blob/master/Screenshot_20170818-233219.png" width="300" height="500">
+Getting Started
+---------------
 
-We started with creating 4 new activities apart from MainActivity which are NumbersActivity, ColorsActivity, FamilyActivity, and PhrasesActivity, all 4 activities are described in the following section:
+This sample uses the Gradle build system. To build this project, use the
+"gradlew build" command or use "Import Project" in Android Studio.
 
-* Numbers Activity shows the translation of numbers 1 to 10.
-* Colors Activity shows the translation of different colors.
-* Family Activity shows the translation of different family members.
-* Phrases Activity shows the translation of different English phrases. 
+Support
+-------
 
-It starts with the use of activities in the app. After learning what activities are, the app continues with a connecting concept called as intents. Intents included Implicit as well as Explicit intents.
+- Google+ Community: https://plus.google.com/communities/105153134372062985968
+- Stack Overflow: http://stackoverflow.com/questions/tagged/android
 
-Next, the app uses onCLickListners to know the behavior of the app when a user clicks on a specific element.
+Patches are encouraged, and may be submitted by forking this project and
+submitting a pull request through GitHub. Please see CONTRIBUTING.md for more details.
 
-Further, the app uses ArrayLists to accept strings from the user. ArrayList is a powerful concept in Java which can be used for multiple purposes.
+License
+-------
 
-Next, the app also uses concepts of Loops in Java, where if-else loops and for loops are used in the app.
+Copyright 2016 The Android Open Source Project, Inc.
 
-Further, the app introduces a concept of how to properly utilize resources(memory) of an android phone so that the app consumes minimal resources and helps the Android phone to work smoothly.
+Licensed to the Apache Software Foundation (ASF) under one or more contributor
+license agreements.  See the NOTICE file distributed with this work for
+additional information regarding copyright ownership.  The ASF licenses this
+file to you under the Apache License, Version 2.0 (the "License"); you may not
+use this file except in compliance with the License.  You may obtain a copy of
+the License at
 
-Then we used ListView so that we can display multiple text views at same time. ListViews uses a concept of view recycling which helps the app to consume less memory.
+http://www.apache.org/licenses/LICENSE-2.0
 
-Also, we used a concept of ArrayAdapter combined with ListView so that we can optimize our app with respect to memory.
-
-Further, the app also uses a concept of adding multiple images into the app. For example, the Family Activity shows the images of the family members.
-
-Please refer the following screenshot of FamilyActivity to understand how images look in Miwok app:
-
-<img src="https://github.com/rashilps/Miwok-translation-app/blob/master/Screenshot%20(18-Aug-2017%2011-37-49%20PM).png" width="300" height="500">
-
-Next, we introduced a concept of MediaPlayer in android so that when the user clicks on a particular field for translation, the app should dictate the translation to the user.
-
-We added mp3 files into the app which had all the Miwok translations.
-
-Also, we learned about touch feedback in android which gives a ripple effect feedback to the user when the user clicks on a particular item.
-
-With this, we were able to add dictation feature in our app.
-
-Further, we converted our app from activities into fragments for a smoother experience.
-
-The app looked like this when the fragment was added:
-
-<img src="https://github.com/rashilps/Miwok-translation-app/blob/master/Screenshot_20170819-000650.png" width="300" height="500">
-
-We used Navigation Patterns for adding the swipe effect to all the fragments which help the user to easily navigate through different fragments.
-
-These are the screenshots of how the final app looks like:
-
-<img src="https://github.com/rashilps/Miwok-translation-app/blob/master/Screenshot_20170819-000650.png" width="300" height="500">   <img src="https://github.com/rashilps/Miwok-translation-app/blob/master/Screenshot_20170819-000654.png" width="300" height="500">   <img src="https://github.com/rashilps/Miwok-translation-app/blob/master/Screenshot_20170819-000659.png" width="300" height="500">   <img src="https://github.com/rashilps/Miwok-translation-app/blob/master/Screenshot_20170819-000704.png" width="300" height="500">
-
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
+WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  See the
+License for the specific language governing permissions and limitations under
+the License.

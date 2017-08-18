@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/rashil/.android/build-cache/bab06c5e7d4adb1d9e87e696e8823156c5a7641c/output/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/home/rashil/AndroidStudioProjects/ud839_Miwok-Starter-code_without_fragments/app/build/intermediates/pre-dexed/debug/internal_impl-23.3.0_f19e7f47ff4e783e54b822462c34ba24846b68e4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rashil/AndroidStudioProjects/ud839_Miwok-Starter-code_without_fragments/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/rashil/AndroidStudioProjects/ud839_Miwok-Starter-code_without_fragments/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_a853bb7508289543068b79746ab0341309c5f59d/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rashil/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/home/rashil/AndroidStudioProjects/ud839_Miwok-Starter-code_without_fragments/app/build/intermediates/pre-dexed/debug/support-annotations-23.3.0_78b7e799596467657e2e46fb2b6d8c97cb17acd2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rashil/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/rashil/AndroidStudioProjects/ud839_Miwok-Starter-code_without_fragments/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_0987a732bec329b405cb5bbe964d50bac56a0a64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rashil/.android/build-cache/2c60d4bbb86bdb91ca464b96d12cddff8c917cad/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/home/rashil/AndroidStudioProjects/ud839_Miwok-Starter-code_without_fragments/app/build/intermediates/pre-dexed/debug/classes_1ca834b2e8b16626532fce3b673ff28e29d69805.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rashil/.android/build-cache/5c8384dd7f6546d4aae85999bad6302b858269c0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="/home/rashil/AndroidStudioProjects/ud839_Miwok-Starter-code_without_fragments/app/build/intermediates/pre-dexed/debug/classes_89d809bb5072acfca4b7ede3aa3bafbb703176ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rashil/.android/build-cache/111f95a6d0c9b1ad49e1e730d7e278fc5086a4c2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/home/rashil/AndroidStudioProjects/ud839_Miwok-Starter-code_without_fragments/app/build/intermediates/pre-dexed/debug/classes_8f18d02690811f529b0f163747634266fdd0abeb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rashil/.android/build-cache/209b09ab1812f9bd034782d15dd911c74c733681/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/home/rashil/AndroidStudioProjects/ud839_Miwok-Starter-code_without_fragments/app/build/intermediates/pre-dexed/debug/classes_8935a11c5cfbfcc7f322a185731a7776a2d63069.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rashil/.android/build-cache/bab06c5e7d4adb1d9e87e696e8823156c5a7641c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/home/rashil/AndroidStudioProjects/ud839_Miwok-Starter-code_without_fragments/app/build/intermediates/pre-dexed/debug/classes_bfab5a593830940c300a62f7877bd4e0eda084de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rashil/.android/build-cache/5de2fbbdcd31db3111ec358757fef6fbcbf8c173/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/home/rashil/AndroidStudioProjects/ud839_Miwok-Starter-code_without_fragments/app/build/intermediates/pre-dexed/debug/classes_aaecac77385b1d110819cb8f0ee619c2ba9e1487.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rashil/.android/build-cache/0c44ca69279a2952d8b15420ce2747376b120cbf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/rashil/AndroidStudioProjects/ud839_Miwok-Starter-code_without_fragments/app/build/intermediates/pre-dexed/debug/classes_b4b87a6e2594ba7503d9b22890d7d5c0cd2d3a07.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rashil/AndroidStudioProjects/ud839_Miwok-Starter-code_without_fragments/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2d45a9559a1856b2eda17c1080a88db3436722b9">
+        <dex dex="/home/rashil/AndroidStudioProjects/ud839_Miwok-Starter-code_without_fragments/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d401024c53fa998387b2505cecc10f4428acb6cc/classes.dex" />
+    </item>
+
+</items>
