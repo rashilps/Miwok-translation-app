@@ -26,6 +26,10 @@ Also, we used a concept of ArrayAdapter combined with ListView so that we can op
 
 Further, the app also uses concept of adding multiple images into app. For example, the Family Activity shows the images of the family members in respective sections.
 
+Please refer the following Family Activity screenshot to understand how images look in Miwok app:
+
+![Miwok1](https://github.com/rashilps/Miwok-translation-app/blob/master/Screenshot%20(18-Aug-2017%2011-37-49%20PM).png)
+
 Following is the screenshot of how the app looks at this stage:
 
 ![Miwok1](https://github.com/rashilps/Miwok-translation-app/blob/master/Screenshot_20170818-233219.png)
