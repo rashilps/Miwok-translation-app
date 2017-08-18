@@ -8,7 +8,7 @@ Following is the screenshot of how the MainActivity looks like:
 
 <img src="https://github.com/rashilps/Miwok-translation-app/blob/master/Screenshot_20170818-233219.png" width="300" height="500">
 
-We start with creating 4 new activities apart from MainActivity which are NumbersActivity, ColorsActivity, FamilyActivity, and PhrasesActivity, all 4 activities are described in the following section:
+We started with creating 4 new activities apart from MainActivity which are NumbersActivity, ColorsActivity, FamilyActivity, and PhrasesActivity, all 4 activities are described in the following section:
 
 * Numbers Activity shows the translation of numbers 1 to 10.
 * Colors Activity shows the translation of different colors.
@@ -17,11 +17,11 @@ We start with creating 4 new activities apart from MainActivity which are Number
 
 It starts with the use of activities in the app. After learning what activities are, the app continues with a connecting concept called as intents. Intents included Implicit as well as Explicit intents.
 
-Next, the app uses onCLickListners for know the behavior of the app when a user clicks on a certain element in android.
+Next, the app uses onCLickListners to know the behavior of the app when a user clicks on a specific element.
 
-Further, the app uses ArrayList to take strings from the user. ArrayList is a powerful concept in Java which can be used for multiple purposes.
+Further, the app uses ArrayLists to accept strings from the user. ArrayList is a powerful concept in Java which can be used for multiple purposes.
 
-Next, the app also uses concepts of Loops in Java, where if loop and for loops are used in the app.
+Next, the app also uses concepts of Loops in Java, where if-else loops and for loops are used in the app.
 
 Further, the app introduces a concept of how to properly utilize resources(memory) of an android phone so that the app consumes minimal resources and helps the Android phone to work smoothly.
 
@@ -29,9 +29,9 @@ Then we used ListView so that we can display multiple text views at same time. L
 
 Also, we used a concept of ArrayAdapter combined with ListView so that we can optimize our app with respect to memory.
 
-Further, the app also uses a concept of adding multiple images into the app. For example, the Family Activity shows the images of the family members in respective sections.
+Further, the app also uses a concept of adding multiple images into the app. For example, the Family Activity shows the images of the family members.
 
-Please refer the following Family Activity screenshot to understand how images look in Miwok app:
+Please refer the following screenshot of FamilyActivity to understand how images look in Miwok app:
 
 <img src="https://github.com/rashilps/Miwok-translation-app/blob/master/Screenshot%20(18-Aug-2017%2011-37-49%20PM).png" width="300" height="500">
 
